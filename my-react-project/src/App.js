@@ -46,6 +46,7 @@ import APIIntUsingAxios from './API_Integration/APIIntUsingAxios';
 import UseEffectHook from './API_Integration/UseEffectHook';
 import FetchAPIAssignment from './API_Integration/FetchAPIAssignment';
 import FetchProductAPIAssign from './API_Integration/FetchProductAPIAssign';
+import UseEffectHookAssign from './API_Integration/UseEffectHookAssign';
 
 
 
@@ -94,9 +95,9 @@ function App() {
 
 {/* <APIIntUsingFetch/>   */}
 {/* <APIIntUsingAxios/> */}
-<FetchAPIAssignment/>
-{/* <FetchProductAPIAssign/> */}
+ {/* <FetchProductAPIAssign/> */}
 {/* <UseEffectHook/> */}
+<UseEffectHookAssign/>
   </React.Fragment>
  
   ); 

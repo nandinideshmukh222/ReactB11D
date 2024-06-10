@@ -30,9 +30,21 @@
 
 @keyframes App-logo-spin {
   from {
-    transform: rotate(0deg);
+     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
   }
+}
+.app{
+  padding-bottom:  20px; ;
+  /* background-color: rgb(171, 233, 246); */
+  text-align: center;
+  font-weight: bolder;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+background: #c8bef8;}
+.tr.title{
+  padding: left 40px;
 }
