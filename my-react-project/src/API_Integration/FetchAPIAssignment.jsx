@@ -28,7 +28,7 @@ fetchUserDetails = async() =>{
   render() {
     return (
       <>
-            <h2> Calling API using fetch Method</h2>
+            <h2> Calling API using fetch Method Assignment</h2>
             
             <table class="table  table-dark table-striped table-bordered border-danger">
        

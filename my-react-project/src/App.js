@@ -94,8 +94,8 @@ function App() {
 
 {/* <APIIntUsingFetch/>   */}
 {/* <APIIntUsingAxios/> */}
-{/* <FetchAPIAssignment/> */}
-<FetchProductAPIAssign/>
+<FetchAPIAssignment/>
+{/* <FetchProductAPIAssign/> */}
 {/* <UseEffectHook/> */}
   </React.Fragment>
  

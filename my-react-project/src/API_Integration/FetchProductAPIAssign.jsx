@@ -31,7 +31,7 @@ fetchUserDetails = async() =>{
     return (
      
       <>
-            <h2> Calling API using fetch Method</h2>
+            <h2>Fetching data using Axios Assign.</h2>
 
             <div className='d-flex justify-content-center'>
             {this.state.users.map((user)=>(
