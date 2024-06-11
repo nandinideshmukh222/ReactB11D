@@ -123,6 +123,21 @@ code {
 	right: 50px;	
 	border-radius: 60px;
 } */
-
+.Form {
+	font-weight: bolder;
+	
+}
+.Form h1{
+	font-weight: bolder;
+	
+}
+#SubBut{
+	font-weight: bolder;
+	padding-left: 12px;
+	padding-right: 12px;
+	border-radius: 8px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
 
 

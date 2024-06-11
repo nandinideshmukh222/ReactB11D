@@ -23,7 +23,7 @@ import FragmentTest from './FragmentTest/FragmentTest';
 
 import React from 'react';
 import WelcomeCompCall from './CompCall/WelcomeCompCall';
-import ParentComp from './PropsTest/ParentComp';
+//  import ParentComp from './PropsTest/ParentComp';
 
 
 import ConditionRenderingAssign from './ConditionalRendering/RenderingLoginAssign';
@@ -47,6 +47,9 @@ import UseEffectHook from './API_Integration/UseEffectHook';
 import FetchAPIAssignment from './API_Integration/FetchAPIAssignment';
 import FetchProductAPIAssign from './API_Integration/FetchProductAPIAssign';
 import UseEffectHookAssign from './API_Integration/UseEffectHookAssign';
+import UseEffectAPICall from './USEEffect/UseEffectAPICall';
+import FormBasic from './Form Handling/FormBAsics';
+import FormBasicUsingClassComp from './Form Handling/FormBasicUsingClassComp';
 
 
 
@@ -97,7 +100,11 @@ function App() {
 {/* <APIIntUsingAxios/> */}
  {/* <FetchProductAPIAssign/> */}
 {/* <UseEffectHook/> */}
-<UseEffectHookAssign/>
+{/* <UseEffectHookAssign/> */}
+{/* <UseEffectAPICall/> */}
+
+{/* <FormBasic/> */}
+<FormBasicUsingClassComp/>
   </React.Fragment>
  
   ); 
