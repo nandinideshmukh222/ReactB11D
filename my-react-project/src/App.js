@@ -23,34 +23,34 @@ import FragmentTest from './FragmentTest/FragmentTest';
 
 import React from 'react';
 import WelcomeCompCall from './CompCall/WelcomeCompCall';
-//  import ParentComp from './PropsTest/ParentComp';
+ import ParentComp from './PropsTest/ParentComp';
 
 
-// import ConditionRenderingAssign from './ConditionalRendering/RenderingLoginAssign';
-// import StateInClassComp from './StateInClassComp/StateInClassComp';
-// import FormExample from './ConditionalRendering/Login';
+import ConditionRenderingAssign from './ConditionalRendering/RenderingLoginAssign';
+import StateInClassComp from './StateInClassComp/StateInClassComp';
+import FormExample from './ConditionalRendering/Login';
 
-// import login from './ConditionalRendering/Login';
-// import { Button, FormGroup, FormControl, ControlLabel } from "react-bootstrap";
-// import StateInClassCount from './StateInClassComp/StateInCaseCountAssign';
-// import ConditionalRen from './ConditionalRendering/ConditionalRen';
-// import LoginSignup from './ConditionalRendering/LoginSignup';
-// import StateInFunComp from './StateInClassComp/StateFunComp';
-// import StateInFuncComp from './StateInClassComp/StateFunComp';
-// import Main from './RoutingTest/Main';
-// import LifeCycleMethods from './ClassCompLifeCycle/LifeCycleMethods';
-// import LifeCycleFMethod from './FunctionalCompLifeCycle/LifeCycleFMethod';
-// import DailyRoutine from './ClassCompLifeCycle/DailyRoutine';
-// import APIIntUsingFetch from './API_Integration/APIIntUsingFetch';
-// import APIIntUsingAxios from './API_Integration/APIIntUsingAxios';
-// import UseEffectHook from './API_Integration/UseEffectHook';
-// import FetchAPIAssignment from './API_Integration/FetchAPIAssignment';
-// import FetchProductAPIAssign from './API_Integration/FetchProductAPIAssign';
-// import UseEffectHookAssign from './API_Integration/UseEffectHookAssign';
-// import UseEffectAPICall from './USEEffect/UseEffectAPICall';
-// import FormBasic from './Form Handling/FormBAsics';
-// import FormBasicUsingClassComp from './Form Handling/FormBasicUsingClassComp';
-// import AdvanceFormClassComp from './Form Handling/AdvanceFormClassComp';
+import login from './ConditionalRendering/Login';
+import { Button, FormGroup, FormControl, ControlLabel } from "react-bootstrap";
+import StateInClassCount from './StateInClassComp/StateInCaseCountAssign';
+import ConditionalRen from './ConditionalRendering/ConditionalRen';
+import LoginSignup from './ConditionalRendering/LoginSignup';
+import StateInFunComp from './StateInClassComp/StateFunComp';
+import StateInFuncComp from './StateInClassComp/StateFunComp';
+import Main from './RoutingTest/Main';
+import LifeCycleMethods from './ClassCompLifeCycle/LifeCycleMethods';
+import LifeCycleFMethod from './FunctionalCompLifeCycle/LifeCycleFMethod';
+import DailyRoutine from './ClassCompLifeCycle/DailyRoutine';
+import APIIntUsingFetch from './API_Integration/APIIntUsingFetch';
+import APIIntUsingAxios from './API_Integration/APIIntUsingAxios';
+import UseEffectHook from './API_Integration/UseEffectHook';
+import FetchAPIAssignment from './API_Integration/FetchAPIAssignment';
+import FetchProductAPIAssign from './API_Integration/FetchProductAPIAssign';
+import UseEffectHookAssign from './API_Integration/UseEffectHookAssign';
+import UseEffectAPICall from './USEEffect/UseEffectAPICall';
+import FormBasic from './Form Handling/FormBAsics';
+import FormBasicUsingClassComp from './Form Handling/FormBasicUsingClassComp';
+import AdvanceFormClassComp from './Form Handling/AdvanceFormClassComp';
 import AFormHandFunComp from './Form Handling/AFormHandFunComp';
 
 
@@ -105,8 +105,8 @@ function App() {
 {/* <FormBasic/> */}
 {/* <FormBasicUsingClassComp/>*/}
 {/* <AFormHandFunComp/> */}
- {/* <AdvanceFormClassComp/> */}
- <AFormHandFunComp/>
+ <AdvanceFormClassComp/>
+ {/* <AFormHandFunComp/> */}
 
   </React.Fragment>
  
