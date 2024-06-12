@@ -123,14 +123,14 @@ code {
 	right: 50px;	
 	border-radius: 60px;
 } */
-.Form {
-	font-weight: bolder;
-	
+*{
+	 font-weight: bold;
+	/* margin-right: 60%;
+	margin-bottom: 30%; */
 }
-.Form h1{
-	font-weight: bolder;
-	
-}
+ form h1{
+	font-weight: bold;
+	}
 #SubBut{
 	font-weight: bolder;
 	padding-left: 12px;
@@ -139,5 +139,19 @@ code {
 	padding-top: 5px;
 	padding-bottom: 5px;
 }
+#colorBUt{
+	padding-left:30px;
+}
+#subbut{
+	border-radius: 10px;
+	padding: 5px;
+	margin: 3px;
+	padding-left: 10px;
+	padding-right: 7px;
+}
 
-
+#genderb{
+    padding: 40 px;
+	column-gap: 10px;
+	margin-right: 80px;
+}

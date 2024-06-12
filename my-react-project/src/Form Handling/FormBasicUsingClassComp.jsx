@@ -45,7 +45,7 @@ class FormBasicUsingClassComp extends React.Component {
             </div>
             <br />
             <div>
-                 Email      :       <input
+                 Email  ID  : <input
                 type="text"
                 name="Email"
                 value={this.state.Email}
